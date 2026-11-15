@@ -41,7 +41,4 @@ build/
 *.log
 
 /spec/
-
-# Secretos locales. Nunca deben versionarse.
-/.environments/
-/.env
+.env
